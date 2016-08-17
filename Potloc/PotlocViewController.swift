@@ -86,7 +86,7 @@ class PotlocViewController: UIViewController, WCSessionDelegate, CLLocationManag
     }
     
     var stopButtonTitle: String {
-        return NSLocalizedString("Stop updating location", comment: "Pressing this button will stop updating location")
+        return NSLocalizedString("Stop being a location", comment: "Pressing this button will stop updating location")
     }
     
     var locationBatchSizeTitleText: String {
