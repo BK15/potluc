@@ -12,5 +12,7 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
     // MARK: Properties
 
+    var mcashcashcashcash: String?
+    
     var window: UIWindow?
 }
